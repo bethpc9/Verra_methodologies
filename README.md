@@ -1,5 +1,5 @@
 # Verra_methodologies
-QGIS Py file linking South African National Land Cover (SANLC) Verra methodologies.
+QGIS Py file mapping South African National Land Cover (SANLC) to Verra methodologies.
 
 ## Description:
 This Python script processes land use classification and VM binning data within the QGIS Python environment. The script maps land use classes (LU_1, LU_2, etc.) from a land use CSV file to corresponding VM bins in a classification CSV, calculates the total hectares for each VM bin, and outputs the summarized data into a new CSV file.
